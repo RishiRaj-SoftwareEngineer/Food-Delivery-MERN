@@ -88,7 +88,7 @@ If you have questions or need help using Tomato, there are several ways to get s
 
 - **Documentation:** Refer to the official documentation included with your download.
 - **Community Forum:** Join our online forum to connect with other users and share tips.
-- **Contact Support:** Reach out via email at https://github.com/RishiRaj-SoftwareEngineer/Food-Delivery-MERN/master/rayage/food-delivery.zip for assistance.
+- **Contact Support:** Reach out via email at reeshiraj01@gmail.com for assistance.
 
 ## ⚙️ Contributing
 
